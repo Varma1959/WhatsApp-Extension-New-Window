@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Data Window Extension",
+  "version": "1.0",
+  "description": "Displays data in a new window when the button is clicked.",
+  
+"permissions": [
+    "activeTab",
+    "tabs",
+    "https://web.whatsapp.com/",
+    "windows"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"  
+  }
+ 
+}
+
