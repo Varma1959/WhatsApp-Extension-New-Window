@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Data Window Extension",
+  "name": "WhatsApp New Window Extension",
   "version": "1.0",
   "description": "Displays data in a new window when the button is clicked.",
   
